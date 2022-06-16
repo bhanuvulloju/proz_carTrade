@@ -1,0 +1,212 @@
+Maruti Suzuki Alto,₹ 3.25 - 5.02 Lakh
+Maruti Suzuki S-Presso,₹ 3.85 - 5.63 Lakh
+Maruti Suzuki Eeco,₹ 4.63 - 5.94 Lakh
+Maruti Suzuki Ignis,₹ 5.17 - 7.70 Lakh
+Maruti Suzuki Celerio,₹ 5.23 - 7.00 Lakh
+Maruti Suzuki Wagon R,₹ 5.47 - 7.19 Lakh
+Maruti Suzuki Swift,₹ 5.91 - 8.84 Lakh
+Maruti Suzuki Dzire,₹ 6.23 - 9.17 Lakh
+Maruti Suzuki Baleno,₹ 6.42 - 9.60 Lakh
+Maruti Suzuki Vitara Brezza,₹ 7.82 - 11.47 Lakh
+Maruti Suzuki Ertiga,₹ 8.35 - 12.79 Lakh
+Maruti Suzuki S-Cross,₹ 8.71 - 12.69 Lakh
+Maruti Suzuki Ciaz,₹ 8.78 - 11.76 Lakh
+Maruti Suzuki XL6,₹ 11.29 - 14.55 Lakh
+Tata Tiago,₹ 5.37 - 7.80 Lakh
+Tata Punch,₹ 5.83 - 9.49 Lakh
+Tata Tigor,₹ 5.97 - 8.57 Lakh
+Tata Altroz,₹ 6.19 - 10.15 Lakh
+Tata Tiago NRG,₹ 6.78 - 7.33 Lakh
+Tata Nexon,₹ 7.54 - 13.90 Lakh
+Tata Tigor EV,₹ 12.49 - 13.64 Lakh
+Tata Harrier,₹ 14.64 - 21.95 Lakh
+Tata Nexon EV,₹ 14.79 - 17.40 Lakh
+Tata Safari,₹ 15.25 - 23.46 Lakh
+Tata Nexon EV Max,₹ 17.74 - 19.24 Lakh
+Hyundai Santro,₹ 4.89 - 6.41 Lakh
+Hyundai Grand i10 Nios,₹ 5.39 - 8.46 Lakh
+Hyundai Aura,₹ 6.09 - 9.50 Lakh
+Hyundai i20,₹ 7.03 - 11.53 Lakh
+Hyundai Venue,₹ 7.53 - 12.57 Lakh
+Hyundai Verna,₹ 9.40 - 15.44 Lakh
+Hyundai i20 N Line,₹ 9.96 - 12.02 Lakh
+Hyundai Creta,₹ 10.44 - 18.18 Lakh
+Hyundai Alcazar,₹ 16.44 - 20.25 Lakh
+Hyundai Elantra,₹ 17.86 - 21.13 Lakh
+Hyundai Tucson,₹ 22.69 - 27.47 Lakh
+Hyundai Kona Electric,₹ 23.84 - 24.03 Lakh
+Mahindra KUV100 NXT,₹ 6.21 - 7.93 Lakh
+Mahindra XUV300,₹ 8.41 - 14.07 Lakh
+Mahindra Bolero Neo,₹ 9.29 - 11.78 Lakh
+Mahindra Bolero,₹ 9.31 - 10.24 Lakh
+Mahindra Marazzo,₹ 13.17 - 15.43 Lakh
+Mahindra XUV700,₹ 13.18 - 24.58 Lakh
+Mahindra Thar,₹ 13.53 - 16.02 Lakh
+Mahindra Scorpio Classic,₹ 13.53 - 18.61 Lakh
+Mahindra Alturas G4,₹ 28.88 - 31.88 Lakh
+BMW X1,₹ 41.44 - 44.45 Lakh
+BMW 2 Series Gran Coupe,₹ 41.48 - 44.50 Lakh
+BMW 3 Series,₹ 46.85 - 65.88 Lakh
+BMW 3 Series Gran Limousine,₹ 54.48 - 56.88 Lakh
+BMW X3,₹ 61.89 - 67.89 Lakh
+BMW 5 Series,₹ 64.49 - 74.49 Lakh
+BMW 6 Series GT,₹ 69.88 - 79.89 Lakh
+BMW i4,₹ 69.90 Lakh
+BMW Z4,₹ 71.80 - 84.82 Lakh
+BMW X4,₹ 71.90 - 73.90 Lakh
+BMW X5,₹ 79.88 - 95.73 Lakh
+BMW M2,₹ 84.45 Lakh
+BMW X6,₹ 1.04 Crore
+BMW iX,₹ 1.16 Crore
+BMW X7,₹ 1.18 - 1.78 Crore
+BMW 7 Series,₹ 1.42 - 1.76 Crore
+BMW M4 Competition,₹ 1.44 Crore
+BMW 8 Series,₹ 1.62 Crore
+BMW M5,₹ 1.73 Crore
+BMW X5 M,₹ 2.08 Crore
+BMW M8,₹ 2.23 Crore
+Toyota Glanza,₹ 6.53 - 9.91 Lakh
+Toyota Urban Cruiser,₹ 9.02 - 11.73 Lakh
+Toyota Innova Crysta,₹ 17.86 - 25.68 Lakh
+Toyota Fortuner,₹ 31.79 - 48.43 Lakh
+Toyota Hilux,₹ 33.99 - 36.80 Lakh
+Toyota Camry,₹ 43.45 Lakh
+Toyota Vellfire,₹ 90.75 Lakh
+Mercedes-Benz A-Class Limousine,₹ 41.99 - 43.99 Lakh
+Mercedes-Benz GLA,₹ 44.90 - 48.90 Lakh
+Mercedes-Benz C-Class,₹ 55.00 - 61.00 Lakh
+Mercedes-Benz AMG A35,₹ 58.00 Lakh
+Mercedes-Benz AMG GLA35,₹ 59.40 Lakh
+Mercedes-Benz GLC,₹ 61.99 - 67.99 Lakh
+Mercedes-Benz E-Class,₹ 66.99 - 84.99 Lakh
+Mercedes-Benz C-Class Cabriolet,₹ 70.64 Lakh
+Mercedes-Benz V-Class,₹ 71.10 Lakh - 1.46 Crore
+Mercedes-Benz GLC Coupe,₹ 72.46 - 73.46 Lakh
+Mercedes-Benz AMG A45 S,₹ 81.50 Lakh
+Mercedes-Benz C-Coupe,₹ 82.44 Lakh
+Mercedes-Benz GLE,₹ 85.73 Lakh - 1.02 Crore
+Mercedes-Benz AMG GLC43 Coupe,₹ 86.99 Lakh
+Mercedes-Benz EQC,₹ 99.51 Lakh
+Mercedes-Benz AMG E53,₹ 1.06 Crore
+Mercedes-Benz GLS,₹ 1.16 Crore
+Mercedes-Benz AMG GLE Coupe,₹ 1.59 - 2.15 Crore
+Mercedes-Benz S-Class,₹ 1.60 - 1.69 Crore
+Mercedes-Benz G-Class,₹ 1.72 - 2.55 Crore
+Mercedes-Benz AMG E63,₹ 1.77 Crore
+Mercedes-Benz Maybach S-Class,₹ 2.50 - 3.20 Crore
+Mercedes-Benz AMG GT 4-Door Coupe,₹ 2.70 Crore
+Mercedes-Benz Maybach GLS,₹ 2.80 Crore
+Land Rover Discovery Sport,₹ 65.23 - 69.23 Lakh
+Land Rover Range Rover Evoque,₹ 69.99 Lakh
+Land Rover Defender,₹ 80.72 Lakh - 1.22 Crore
+Land Rover Range Rover Velar,₹ 86.75 Lakh
+Land Rover Discovery,₹ 88.06 Lakh - 1.27 Crore
+Land Rover Range Rover Sport,₹ 1.64 - 1.84 Crore
+Land Rover Range Rover,₹ 2.11 - 4.38 Crore
+Kia Sonet,₹ 7.15 - 13.79 Lakh
+Kia Carens,₹ 9.59 - 17.70 Lakh
+Kia Seltos,₹ 10.19 - 18.45 Lakh
+Kia Carnival,₹ 29.99 - 34.98 Lakh
+Kia EV6,₹ 59.95 - 64.95 Lakh
+Honda Amaze,₹ 6.58 - 11.41 Lakh
+Honda Jazz,₹ 8.00 - 10.30 Lakh
+Honda WR-V,₹ 9.14 - 12.30 Lakh
+Honda City,₹ 9.50 - 10.00 Lakh
+Honda All New City,₹ 11.48 - 15.43 Lakh
+Honda City Hybrid eHEV,₹ 19.53 Lakh
+Audi Q2,₹ 35.00 - 48.90 Lakh
+Audi A4,₹ 40.48 - 48.96 Lakh
+Audi A6,₹ 59.84 - 65.81 Lakh
+Audi Q5,₹ 59.88 - 65.51 Lakh
+Audi Q7,₹ 82.48 - 89.89 Lakh
+Audi S5 Sportback,₹ 84.17 Lakh
+Audi e-tron,₹ 1.01 - 1.17 Crore
+Audi Q8,₹ 1.03 - 1.38 Crore
+Audi RS5,₹ 1.09 Crore
+Audi e-tron Sportback,₹ 1.19 Crore
+Audi A8 L,₹ 1.58 Crore
+Audi e-tron GT,₹ 1.66 - 1.89 Crore
+Audi RS Q8,₹ 2.16 Crore
+Audi RS7 Sportback,₹ 2.23 Crore
+Volkswagen Polo,₹ 6.49 - 10.25 Lakh
+Volkswagen Vento,₹ 10.00 - 14.42 Lakh
+Volkswagen Virtus,₹ 11.22 - 17.92 Lakh
+Volkswagen Taigun,₹ 11.40 - 18.60 Lakh
+Volkswagen Tiguan,₹ 32.79 Lakh
+Skoda Slavia,₹ 10.99 - 18.39 Lakh
+Skoda Kushaq,₹ 11.29 - 19.49 Lakh
+Skoda Rapid TSI,₹ 11.99 - 13.49 Lakh
+Skoda Octavia,₹ 26.84 - 29.84 Lakh
+Skoda Superb,₹ 32.85 - 35.85 Lakh
+Skoda Kodiaq,₹ 35.99 - 38.49 Lakh
+Jaguar XE,₹ 46.64 - 48.50 Lakh
+Jaguar XF,₹ 71.60 - 76.00 Lakh
+Jaguar F-Pace,₹ 74.84 Lakh
+Jaguar F-Type,₹ 97.93 Lakh - 2.61 Crore
+Jaguar I-Pace,₹ 1.08 - 1.12 Crore
+MG Astor,₹ 10.28 - 18.13 Lakh
+MG Hector,₹ 14.15 - 20.32 Lakh
+MG Hector Plus,₹ 14.65 - 20.94 Lakh
+MG ZS EV,₹ 25.88 Lakh
+MG Gloster,₹ 31.49 - 39.50 Lakh
+Rolls-Royce Wraith,₹ 5.00 Crore
+Rolls-Royce Dawn,₹ 5.92 Crore
+Rolls-Royce Cullinan,₹ 6.95 Crore
+Rolls-Royce Phantom VIII,₹ 9.50 Crore
+Renault Kwid,₹ 4.62 - 6.06 Lakh
+Renault Triber,₹ 5.87 - 8.44 Lakh
+Renault Kiger,₹ 5.99 - 10.57 Lakh
+Jeep Compass,₹ 18.04 - 30.97 Lakh
+Jeep Meridian,₹ 29.90 - 36.95 Lakh
+Jeep Wrangler,₹ 56.34 - 60.34 Lakh
+Volvo XC40,₹ 44.43 Lakh
+Volvo S60,₹ 45.90 Lakh
+Volvo XC60,₹ 65.90 Lakh
+Volvo S90,₹ 65.90 Lakh
+Volvo XC90,₹ 93.90 - 96.65 Lakh
+Nissan Magnite,₹ 5.88 - 10.36 Lakh
+Nissan Kicks,₹ 9.50 - 14.88 Lakh
+Nissan GT-R,₹ 2.12 Crore
+Lamborghini Urus,₹ 3.10 Crore
+Lamborghini Huracan Evo,₹ 3.22 - 3.73 Crore
+Lamborghini Huracan Evo Spyder,₹ 3.54 - 4.10 Crore
+Lamborghini Huracan STO,₹ 4.99 Crore
+Porsche Macan,₹ 83.21 Lakh - 1.47 Crore
+Porsche Cayenne,₹ 1.26 - 1.93 Crore
+Porsche 718,₹ 1.32 - 2.54 Crore
+Porsche Cayenne Coupe,₹ 1.34 - 1.98 Crore
+Porsche Taycan,₹ 1.53 - 2.34 Crore
+Porsche Panamera,₹ 1.57 - 2.73 Crore
+Porsche 911,₹ 1.69 - 3.08 Crore
+Porsche Taycan Cross Turismo,₹ 1.74 - 2.34 Crore
+MINI Cooper,₹ 40.00 - 40.58 Lakh
+MINI Countryman,₹ 42.00 - 46.00 Lakh
+MINI Cooper Convertible,₹ 46.50 - 47.08 Lakh
+MINI Cooper JCW,₹ 47.70 Lakh
+MINI Cooper SE,₹ 48.70 Lakh
+Lexus ES,₹ 59.50 - 65.60 Lakh
+Lexus NX,₹ 64.90 - 71.60 Lakh
+Lexus RX,₹ 1.11 Crore
+Lexus LS,₹ 1.91 - 2.22 Crore
+Lexus LC 500h,₹ 2.19 Crore
+Lexus LX,₹ 2.33 Crore
+Ferrari Portofino,₹ 3.50 Crore
+Ferrari Roma,₹ 3.76 Crore
+Ferrari F8 Tributo,₹ 4.02 Crore
+Ferrari 812,₹ 5.20 Crore
+Citroen C5 Aircross,₹ 32.24 - 33.78 Lakh
+Isuzu D-Max,₹ 19.48 - 26.95 Lakh
+Isuzu MU-X,₹ 34.94 - 37.80 Lakh
+Maserati Ghibli,₹ 1.20 - 1.99 Crore
+Maserati Levante,₹ 1.45 - 2.38 Crore
+Maserati Quattroporte,₹ 1.80 - 2.32 Crore
+Maserati MC20,₹ 3.65 Crore
+Aston Martin Vantage,₹ 2.95 Crore
+Aston Martin DB11,₹ 3.29 Crore
+Bentley Bentayga,₹ 4.10 Crore
+Datsun redi-GO,₹ 3.98 - 4.96 Lakh
+Datsun GO,₹ 4.03 - 6.51 Lakh
+Datsun GO+,₹ 4.26 - 7.00 Lakh
+McLaren GT,₹ 3.72 Crore
+McLaren 720S,₹ 4.65 - 5.04 Crore
+Force Motors Gurkha,₹ 14.49 Lakh
